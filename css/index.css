@@ -1,0 +1,11 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif
+}
+
+.img-container {
+  max-width: 100px;
+}
+
+#service a {
+  text-decoration: none;
+}
